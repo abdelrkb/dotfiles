@@ -1,0 +1,6 @@
+#open a new terminal
+cmd - return : /opt/homebrew/bin/kitty
+
+#open browser
+cmd - b : open -n "/Applications/Opera GX.app"
+
